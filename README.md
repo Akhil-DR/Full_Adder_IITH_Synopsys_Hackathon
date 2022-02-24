@@ -148,7 +148,9 @@ Akhil D R ME VLSI Design, Manipal University, Karnataka, Bangalore.
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 2. Chinmay panda, IIT Hyderabad
 3. Sameer Durgoji, NIT Karnataka
+4. [Synopsys Team/Company](https://www.synopsys.com/)
 
 ## References
 [1] N. Weste, and K. Eshraghian, “Principles of CMOS VSI Design: A Systems Perspective,” Second Edition,Addison-Wesley, 1993.
+
 [2] D. Radhakrishnan, “Low-voltage low-power CMOS fulladder,” IEEE Proceedings - Circuits Devices and System vol. 148, pp. 19-24, Feb. 2001.
