@@ -1,4 +1,4 @@
-# Design of 28T CMOS Full Adder using Synopsys Custom-Compiler
+# Design Analysis of Conventional Full Adder Architecture on 28nm CMOS Technology
 This repository will maintain simulation files and other relevant files of the FULL ADDER block worked on the IITH/Synopsys/analogHackathon 2022
 
 # Table of Contents
